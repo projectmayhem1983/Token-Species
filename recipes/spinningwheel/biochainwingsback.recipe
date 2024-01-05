@@ -1,0 +1,8 @@
+{
+  "input" : [
+     { "item" : "durasteelbar", "count" : 5 },
+	 { "item" : "money", "count" : 500 }
+  ],
+  "output" : { "item" : "biochainwingsback", "count" : 1 },
+  "groups" : [ "craftinganvil", "armours"]
+}

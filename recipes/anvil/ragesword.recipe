@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 5 },
+	{ "item" : "durasteelbar", "count" : 20 }
+  ],
+  "output" : { "item" : "ragesword", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons" ]
+}

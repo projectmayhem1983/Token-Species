@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 5000 },
+	{ "item" : "biochainwingsback", "count" : 1 }
+  ],
+  "output" : { "item" : "biohalohead", "count" : 1 },
+  "groups" : [ "craftinganivil", "armours"]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 5 },
+	{ "item" : "durasteelbar", "count" : 10 },
+	{ "item" : "coalore", "count" : 10 },
+	{ "item" : "solidfuel", "count" : 5 }
+  ],
+  "output" : { "item" : "chaosdagger", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons" ]
+}

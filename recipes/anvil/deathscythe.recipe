@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 5 },
+	{ "item" : "durasteelbar", "count" : 20 }
+  ],
+  "output" : { "item" : "deathscythe", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons" ]
+}

@@ -1,0 +1,14 @@
+{
+  "id" : "tokenracetutorial.gearup",
+  "title" : "^orange;There's No Place Like Home",
+  "text" : "Haven, our old home, was destroyed a long time ago. As far as I know, I'm the last of my race, and at the moment my chances of survival seem slim: my ship was wrecked in a meteor cluster while I was asleep, I'm out of food, and all my armor's gone missing. In order to progress, I'll need to repair the ship... and catch some bugs or something, cause I'm hungry.",
+  "completionText" : "The ship's finally back online! It's not really travel-ready yet, since I still need to fix the FTL drive, but at least the heat's running.",
+  "conditions" : [
+    { "kind" : "trigger", "trigger" : "ai.repairthrusters" }
+  ],
+  "moneyRange" : [500, 500],
+  "planetMode" : "none",
+  "followUp" : "ftlrepairmain.gearup",
+  "questDungeons" : [ ],
+  "canBeAbandoned" : false
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "coalore", "count" : 100 },
+	{ "item" : "durasteelbar", "count" : 20 },
+	{ "item" : "refinedviolium", "count" : 5 }
+  ],
+  "output" : { "item" : "furyaxe", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons" ]
+}

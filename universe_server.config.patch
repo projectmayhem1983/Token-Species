@@ -1,0 +1,6 @@
+[
+	{ "op" : "add"
+	,"path" : "/speciesShips/token"
+	,"value" : [ "/ships/tokenrace/humanT0.structure", "/ships/tokenrace/humanT1.structure", "/ships/tokenrace/humanT2.structure", "/ships/tokenrace/humanT3.structure", "/ships/tokenrace/humanT4.structure", "/ships/tokenrace/humanT5.structure", "/ships/tokenrace/humanT6.structure", "/ships/tokenrace/humanT7.structure", "/ships/tokenrace/humanT8.structure" ]
+	}
+]
