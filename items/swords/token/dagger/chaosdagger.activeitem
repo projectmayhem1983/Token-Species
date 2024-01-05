@@ -1,0 +1,33 @@
+{
+  "itemName" : "chaosdagger",
+  "level" : 6,
+  "price" : 980,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "The Chaos Blade. Created in honor of a god, but marked by the hands of a devil.",
+  "shortdescription" : "^green;The Chaos Blade",
+  "tooltipKind" : "sword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","shortsword"],
+
+  "inventoryIcon" : "chaosdagger.png",
+
+  "animation" : "/items/active/weapons/melee/shortsword/comboshortsword.animation",
+  "animationParts" : {
+    "handle": "",
+    "blade" : "chaosdagger.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "poison",
+
+  "primaryAbilityType" : "shortswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.325,
+    "baseDps" : 4.5
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

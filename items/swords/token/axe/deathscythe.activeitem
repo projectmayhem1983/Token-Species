@@ -1,0 +1,45 @@
+{
+  "itemName" : "deathscythe",
+  "level" : 6,
+  "price" : 980,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Death's Scythe. While interesting, it's unclear which version of Death this scythe belonged to",
+  "shortdescription" : "Death's Scythe",
+  "tooltipKind" : "sword",
+ "category" : "axe",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","axe"],
+
+  
+  
+  "inventoryIcon" : "deathscythe.png",
+
+  "animation" : "/items/active/weapons/melee/axe/axe.animation",
+  "animationParts" : {
+    "blade" : "deathscythe.png",
+    "handle" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_axe.ogg" ]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "aimOffset" : -1.0,
+
+  "primaryAbilityType" : "axecleave",
+  "primaryAbility" : {
+    "fireTime" : 0.9,
+    "baseDps" : 9.5,
+    "damageConfig" : {
+      "knockback" : 25
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

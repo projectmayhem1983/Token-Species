@@ -1,0 +1,54 @@
+{
+  "objectName" : "tokencaptainschair",
+  "colonyTags" : ["token"],
+   "itemTags" : ["captainschair"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "loungeable",
+
+  "description" : "The captain's chair.",
+  "shortdescription" : "Token Captain's Chair",
+  "race" : "token",
+  "category" : "furniture",
+
+  "apexDescription" : "Ahh freedom...",
+  "avianDescription" : "Bless my beak, such a comfortable captain's chair.",
+  "floranDescription" : "SSsmells of Apex butt.",
+  "glitchDescription" : "Anticipation. Where to next?",
+  "humanDescription" : "A pretty cool chair.",
+  "hylotlDescription" : "Elegant.",
+    "novakidDescription" : "The Captain's chair. The guy who sits here decides where the ship goes! That's me!",
+  "tokenDescription" : "Why do they have to make these things so uncomfortable? My tail's stuck between the cushions...",
+
+  "inventoryIcon" : "captainschairicon.png",
+  "orientations" : [
+    {
+      "image" : "tokencaptainschair.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "flipImages" : true,
+      "direction" : "left",
+      "sitPosition" : [1.6, 22.5]
+    },
+    {
+      "image" : "tokencaptainschair.png:<color>",
+      "imagePosition" : [-12, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "direction" : "right",
+      "sitPosition" : [1.6, 22.5]
+    }
+  ],
+ "interactAction" : "ScriptPane",
+"interactData" : "/interface/cockpit/cockpit.config",
+  "sitFlipDirection" : false,
+  "soundEffect" : "/sfx/objects/shipengine.wav",
+  "soundEffectRadius" : 1000
+}

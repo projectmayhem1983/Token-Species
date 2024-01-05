@@ -1,0 +1,36 @@
+{
+  "itemName" : "colinsword",
+  "level" : 6,
+  "price" : 960,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "The sword Colin found lodged in the hull of Infinity.",
+  "shortdescription" : "Colin's Sword",
+  "tooltipKind" : "sword",
+   "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+
+  "inventoryIcon" : "colinsword.png",
+
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "colinsword.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.83,
+    "baseDps" : 11.5
+  },
+
+  "altAbilityType" : "watershockwave",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

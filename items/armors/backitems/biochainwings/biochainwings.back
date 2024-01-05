@@ -1,0 +1,58 @@
+{
+  "itemName" : "biochainwingsback",
+  "inventoryIcon" : "biochainwingsbackicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Rare",
+  "description" : "You've gained enough power to grow these wings!",
+  "shortdescription" : "Biochain Wings",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+  "maxStack" : 1,
+  "acceptsAugmentType" : "back",
+   "statusEffects" : [
+  "lowgrav",
+  "jumpboost",
+  "nofalldamage"],
+  
+   
+
+  "colorOptions" : [
+	{ "ffffff" : "ffffff", "33ffcc" : "33ffcc", "339999" : "339999" },
+    /* GREEN */
+    { "ffffff" : "b2e89d", "33ffcc" : "51bd3b", "339999" : "247824", "6f2919" : "144216" },
+    /* BLACK */
+    { "ffffff" : "838383", "33ffcc" : "555555", "339999" : "383838", "6f2919" : "151515" },
+    /* GREY */
+    { "ffffff" : "b5b5b5", "33ffcc" : "808080", "339999" : "555555", "6f2919" : "303030" },
+    /* WHITE */
+    { "ffffff" : "e6e6e6", "33ffcc" : "b6b6b6", "339999" : "7b7b7b", "6f2919" : "373737" },
+    /* RED */
+    { "ffffff" : "f4988c", "33ffcc" : "d93a3a", "339999" : "932625", "6f2919" : "601119" },
+    /* ORANGE */
+    { "ffffff" : "ffd495", "33ffcc" : "ea9931", "339999" : "af4e00", "6f2919" : "6e2900" },
+    /* YELLOW */
+    { "ffffff" : "ffffa7", "33ffcc" : "e2c344", "339999" : "a46e06", "6f2919" : "642f00" },
+    /* GREEN */
+    { "ffffff" : "b2e89d", "33ffcc" : "51bd3b", "339999" : "247824", "6f2919" : "144216" },
+    /* BLUE */
+    { "ffffff" : "96cbe7", "33ffcc" : "5588d4", "339999" : "344495", "6f2919" : "1a1c51" },
+    /* PURPLE */
+    { "ffffff" : "d29ce7", "33ffcc" : "a451c4", "339999" : "6a2284", "6f2919" : "320c40" },
+    /* PINK */
+    { "ffffff" : "eab3db", "33ffcc" : "d35eae", "339999" : "97276d", "6f2919" : "59163f" },
+    /* BROWN */
+    { "ffffff" : "ccae7c", "33ffcc" : "a47844", "339999" : "754c23", "6f2919" : "472b13" }
+    /*
+    { "ffffff" : "d4c398", "33ffcc" : "bda67a", "339999" : "9c7f54", "6f2919" : "755937" },
+    { "ffffff" : "d5595f", "33ffcc" : "a32c2c", "339999" : "71291b", "6f2919" : "4c1e10" },
+    { "ffffff" : "46b3e8", "33ffcc" : "1a7bb5", "339999" : "0e427e", "6f2919" : "072655" },
+    { "ffffff" : "b0e944", "33ffcc" : "78b618", "339999" : "3f7f0d", "6f2919" : "255606" },
+    { "ffffff" : "eef055", "33ffcc" : "d3bb1c", "339999" : "9c8011", "6f2919" : "644807" },
+    { "ffffff" : "fd8d30", "33ffcc" : "ca6705", "339999" : "8c5d00", "6f2919" : "5c4400" },
+    { "ffffff" : "c260ff", "33ffcc" : "931ad0", "339999" : "710587", "6f2919" : "52015b" },
+    { "ffffff" : "717171", "33ffcc" : "505050", "339999" : "363636", "6f2919" : "181818" },
+    { "ffffff" : "e6e9ea", "33ffcc" : "c6d2d4", "339999" : "97abac", "6f2919" : "627677" }
+*/
+  ]
+}
