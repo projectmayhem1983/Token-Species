@@ -1,0 +1,260 @@
+[
+	{
+		"op": "add",
+		"path": "/intimidate/intimidated/token",
+		"value": {
+			"default": [
+			"Don't hurt me with that <item>! Tell <questGiver> I'll do anything!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/intimidate/notIntimidated/token",
+		"value": {
+			"default": [
+				"You and <questGiver> don't scare me",
+				"Tell <questGiver>to go bone themselves."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/bribe/giftAccepted/token",
+		"value": {
+			"default": [
+				"Oh ho ho, send my regards to <questGiver>.",
+				"Bribing me? Okay great, tell <questGiver> I said thank you."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/bribe/giftAccepted2/token",
+		"value": {
+			"default": [
+				"What does <questGiver> want from me?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/bribe/requestAdditionToHouse/token",
+		"value": {
+			"default": [
+				"This is great! Can you place it in my home for me?",
+				"This will go great in my home, can you put it somewhere nice?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/gift/giftAccepted/token",
+		"value": {
+			"default": [
+				"How kind of <questGiver>. Tell them I said thank you",
+				"Thank you!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/gift/giftAccepted2/token",
+		"value": {
+			"default": [
+				"<questGiver> is a great friend to me."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/gift/requestAdditionToHouse/token",
+		"value": {
+			"default": [
+				"This is a great gift! Can you place it in my home for me?",
+				"This gift will go great in my home, can you put it somewhere nice?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/return_stolen/objectTaken/token",
+		"value": {
+			"default": [
+				"I dug <item> out of the ground fair and honest."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/collect_fine/fineCollected/token",
+		"value": {
+			"default": [
+				"I don't want any trouble, I will pay the fine."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/collect_gift/giftProvided/token",
+		"value": {
+			"default": [
+				"I hope <questGiver> is happy with <item>!."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/request_craft/giftProvided/token",
+		"value": {
+			"default": [
+				"I hope <questGiver> likes their new <item>, I made it with my bare hands."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/borrow/giftProvided/token",
+		"value": {
+			"default": [
+				"Here is the <item>, tell <questGiver> to look after it."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/extort/giftProvided/token",
+		"value": {
+			"default": [
+				"Woah woah!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/hat/crafting/token",
+		"value": {
+			"default": [
+				"Great great, one moment and I will be right back with it made."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/hat/crafted/token",
+		"value": {
+			"default": [
+				"Thank you for waiting. Take this to <questGiver> for me please."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/helmet/crafting/token",
+		"value": {
+			"default": [
+				"Great great, one moment and I will be right back with it made."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/helmet/crafted/token",
+		"value": {
+			"default": [
+				"Thank you for waiting. Take this to <questGiver> for me please."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/new_stock/trade/token",
+		"value": {
+			"default": [
+				"Here is <questGiver>'s parcel, take it to them if you will."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kidnapping/kidnappersDead/token",
+		"value": {
+			"default": [
+				"Thank you for saving me my friend.",
+				"I owe you my life."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kidnapping/followHome/token",
+		"value": {
+			"default": [
+				"I'm too scared to go alone, can you escort me to <questGiver>?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/escort/found/token",
+		"value": {
+			"default": [
+				"Do you know the way to <questGiver>? Can you be my guide?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/barter/trade/token",
+		"value": {
+			"default": [
+				"Thank you for the goods. Here's <questGiver>'s <receivedItems>."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/escort_trade/collectDelivery/token",
+		"value": {
+			"default": [
+				"Do you have a parcel for me?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/escort_trade/provideDelivery/token",
+		"value": {
+			"default": [
+				"Here are your items my friend."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kill_npcs/assistantIntro/token",
+		"value": {
+			"default": [
+				"Hey Hey! <questGiver> is an old friend of mine, they sent me to help you with <enemy>."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kill_npc/surrender/token",
+		"value": {
+			"default": [
+				"You win, I will not fight you any longer."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/kill_npc/betray/token",
+		"value": {
+			"default": [
+				"I can't believe you fell for that."
+			]
+		}
+	}
+]

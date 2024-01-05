@@ -1,0 +1,32 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/token",
+		"value": {
+			"default": [
+				"ROAR!",
+				"GROWL!",
+				"CHARGE!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/token",
+		"value": {
+			"default": [
+				"Bleeders are pathetic",
+				"It has been done."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/token",
+		"value": {
+			"default": [
+				"Hello?"
+			]
+		}
+	}
+]

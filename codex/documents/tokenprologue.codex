@@ -1,0 +1,22 @@
+{
+  "id" : "tokenprologue",
+  "title" : "A Token's Journey Begins",
+  "description" : "The beginnings of a Token's journey.",
+	"icon" : "tokencover2.png",
+  "contentPages" : [
+
+	"Haven was once considered one of the safest places in the universe. As the hub of Token culture, our molters were hatched and raised there, kept safe by caretaker units until maturity.",
+	
+	"However, our negligence would prove to be our downfall. Haven was destroyed- by an outside force, or one within, no one knows- and the molters killed. A force hunted down our elite. There were no survivors.",
+	
+	"And yet, a spark of hope shines. What was thought to be no survivors, instead turned out to be very few. I survived. And so did you. Cherish your life, little molter. One day you'll grow into the strongest warrior we've seen yet."
+
+
+  ],
+   "itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
+
+

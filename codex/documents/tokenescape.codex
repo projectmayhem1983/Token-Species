@@ -1,0 +1,18 @@
+{
+  "id" : "tokenescape",
+  "title" : "Ruin?",
+  "description" : "Token journal excerpt.",
+	"icon" : "tokencover1.png",
+  "contentPages" : [
+
+    "It's been a long time since I've last seen another member of my race. What happened to us? We had pride once, and our tech was the best in the known universe; now we're nearly outclassed by flightless birds and fishes-out-of-water and those apes and their silly pink-skinned brothers. How could we have been so completely destroyed?",
+
+    "What's more, my UNIT's been malfunctioning lately and drove us straight into a meteor belt while trying to find the mothership. What I wouldn't do for a technomage's help right about now..."
+  ],
+  "itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}
+
+

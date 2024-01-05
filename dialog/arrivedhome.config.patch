@@ -1,0 +1,24 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/token",
+		"value": {
+			"default": [
+				"I'm Back!",
+				"Hello hello.",
+				"Can I help you?"
+			]
+			
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/token",
+		"value": {
+			"default": [
+				"A little from me to you.",
+				"I am happy to help."
+			]
+		}
+	}
+]
